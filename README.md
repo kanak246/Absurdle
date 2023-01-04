@@ -1,1 +1,1 @@
-# dubhacks2022
+Absurdle Project -> a "cheating" version of popular game Wordle.
